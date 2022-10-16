@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+	" S",
+        "S "
+    ],
+    
+    "key":{"S":{"item": "uniqueitems:spirit_iron"}},
+    
+    "result":
+    {
+        "item": "uniqueitems:spirit_dagger",
+        "count": 1
+    }
+}

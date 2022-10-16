@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+	"OOS",
+        "OOS"
+    ],
+    
+    "key":{"S":{"item": "uniqueitems:soulless_cloth"},
+	   "O":{"item": "uniqueitems:obsidian_plate"}},
+    
+    "result":
+    {
+        "item": "uniqueitems:soulless_mask",
+        "count": 1
+    }
+}

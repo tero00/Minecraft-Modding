@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        " R",
+	"A "
+    ],
+    
+    "key":{"A":{"item": "uniqueitems:ash_diamond"},"R":{"item": "uniqueitems:hard_redstone"}},
+    
+    "result":
+    {
+        "item": "uniqueitems:queen_bee_stinger",
+        "count": 1
+    }
+}

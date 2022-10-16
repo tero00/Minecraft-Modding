@@ -1,0 +1,20 @@
+{ 
+    "type": "minecraft:crafting_shapeless",
+ 
+    "ingredients": 
+    [
+ 
+    {
+      "item": "minecraft:nether_star"
+    },  
+    {
+      "item": "minecraft:gold_ingot"
+    }
+    ],
+ 
+    "result": 
+    {
+        "item": "uniqueitems:star_gold",
+        "count": 1
+    }
+}

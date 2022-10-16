@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+	"F F",
+        "CFC",
+	"FFF"
+    ],
+    
+    "key":{"C":{"item": "minecraft:end_crystal"},
+	   "F":{"item": "uniqueitems:fairy_iron"}},
+    
+    "result":
+    {
+        "item": "uniqueitems:fairy_chestplate",
+        "count": 1
+    }
+}

@@ -1,0 +1,23 @@
+{ 
+    "type": "minecraft:crafting_shapeless",
+ 
+    "ingredients": 
+    [
+ 
+    {
+      "item": "uniqueitems:dragon_scale"
+    },  
+    {
+      "item": "minecraft:blaze_powder"
+    },  
+    {
+      "item": "minecraft:lava_bucket"
+    }
+    ],
+ 
+    "result": 
+    {
+        "item": "uniqueitems:firedragon_plate",
+        "count": 1
+    }
+}

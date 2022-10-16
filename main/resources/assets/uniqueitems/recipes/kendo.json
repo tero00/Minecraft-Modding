@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+	"  H",
+        " H ",
+	"H  "
+    ],
+    
+    "key":{"H":{"item": "minecraft:stick"}},
+    
+    "result":
+    {
+        "item": "uniqueitems:kendo_stick",
+        "count": 1
+    }
+}

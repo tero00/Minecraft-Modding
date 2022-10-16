@@ -1,0 +1,23 @@
+{ 
+    "type": "minecraft:crafting_shapeless",
+ 
+    "ingredients": 
+    [
+ 
+    {
+      "item": "minecraft:nether_wart_block"
+    },  
+    {
+      "item": "uniqueitems:wool_cloth"
+    },    
+    {
+      "item": "uniqueitems:soulless_sand"
+    }
+    ],
+ 
+    "result": 
+    {
+        "item": "uniqueitems:soulless_cloth",
+        "count": 1
+    }
+}

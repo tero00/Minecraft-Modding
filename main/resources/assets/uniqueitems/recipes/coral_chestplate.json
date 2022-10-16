@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "T T",
+	"TTT",
+	"TTT"
+    ],
+    
+    "key":{"T":{"item": "uniqueitems:coral_cloth"}},
+    
+    "result":
+    {
+        "item": "uniqueitems:coral_chestplate",
+        "count": 1
+    }
+}

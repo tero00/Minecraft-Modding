@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+	"TTT",
+        "T T"
+    ],
+    
+    "key":{"T":{"item": "uniqueitems:twilight_cloth"}},
+    
+    "result":
+    {
+        "item": "uniqueitems:twilight_helmet",
+        "count": 1
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+	"  B",
+        " B ",
+	"B  "
+    ],
+    
+    "key":{"B":{"item": "minecraft:gold_ingot"}},
+    
+    "result":
+    {
+        "item": "uniqueitems:ray_katana",
+        "count": 1
+    }
+}

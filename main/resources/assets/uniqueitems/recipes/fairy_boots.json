@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "C C",
+	"F F"
+    ],
+    
+    "key":{"C":{"item": "minecraft:end_crystal"},
+	   "F":{"item": "uniqueitems:fairy_iron"}},
+    
+    "result":
+    {
+        "item": "uniqueitems:fairy_boots",
+        "count": 1
+    }
+}

@@ -1,0 +1,20 @@
+{ 
+    "type": "minecraft:crafting_shapeless",
+ 
+    "ingredients": 
+    [
+ 
+    {
+      "item": "uniqueitems:star_quartz"
+    },  
+    {
+      "item": "uniqueitems:angry_spirit_iron"
+    }
+    ],
+ 
+    "result": 
+    {
+        "item": "uniqueitems:star_cronus_metal",
+        "count": 1
+    }
+}

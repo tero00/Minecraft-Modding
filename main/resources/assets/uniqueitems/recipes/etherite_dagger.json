@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        " G",
+	"E "
+    ],
+    
+    "key":{"E":{"item": "minecraft:emerald"},"G":{"item": "uniqueitems:star_gold"}},
+    
+    "result":
+    {
+        "item": "uniqueitems:etherite_dagger",
+        "count": 1
+    }
+}

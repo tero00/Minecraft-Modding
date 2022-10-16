@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+	"QQD",
+        "QQB",
+	"QQS"
+    ],
+    
+    "key":{"Q":{"item": "minecraft:quartz"},
+	   "B":{"item": "minecraft:blaze_powder"},
+	   "D":{"item": "minecraft:dragon_breath"},
+	   "S":{"item": "minecraft:sponge", "data": 1}},
+    
+    "result":
+    {
+        "item": "uniqueitems:dragon_scale",
+        "count": 1
+    }
+}

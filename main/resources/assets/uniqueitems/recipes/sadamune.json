@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+	"  B",
+        " B ",
+	"H  "
+    ],
+    
+    "key":{"H":{"item": "minecraft:gold_ingot"},"B":{"item": "uniqueitems:prismatic_gem"}},
+    
+    "result":
+    {
+        "item": "uniqueitems:sadamune",
+        "count": 1
+    }
+}

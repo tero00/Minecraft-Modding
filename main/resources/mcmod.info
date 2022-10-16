@@ -1,0 +1,16 @@
+[
+{
+  "modid": "uniqueitems",
+  "name": "Unique Items",
+  "description": "*unsouls your soul sand*",
+  "version": "1.0",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["tkk0"],
+  "credits": "All code and textures by tkk0, except for the recolors of newer official textures",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

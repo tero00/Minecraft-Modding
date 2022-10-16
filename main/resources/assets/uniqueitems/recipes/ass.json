@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+	"B",
+        "B",
+	"H"
+    ],
+    
+    "key":{"H":{"item": "minecraft:flint"},"B":{"item": "minecraft:bedrock"}},
+    
+    "result":
+    {
+        "item": "uniqueitems:bedrock_sword",
+        "count": 1
+    }
+}

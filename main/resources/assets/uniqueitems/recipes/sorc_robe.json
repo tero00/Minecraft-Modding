@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+	"T T",
+	"TTT",
+	"TTT"
+    ],
+    
+    "key":{"T":{"item": "uniqueitems:sorcerer_cloth"}},
+    
+    "result":
+    {
+        "item": "uniqueitems:sorcerer_robe",
+        "count": 1
+    }
+}

@@ -1,0 +1,20 @@
+{ 
+    "type": "minecraft:crafting_shapeless",
+ 
+    "ingredients": 
+    [
+ 
+    {
+      "item": "minecraft:coal", "data": 1
+    },  
+    {
+      "item": "minecraft:diamond"
+    }
+    ],
+ 
+    "result": 
+    {
+        "item": "uniqueitems:ash_diamond",
+        "count": 1
+    }
+}

@@ -1,0 +1,20 @@
+{ 
+    "type": "minecraft:crafting_shapeless",
+ 
+    "ingredients": 
+    [
+ 
+    {
+      "item": "minecraft:nether_star"
+    },  
+    {
+      "item": "minecraft:quartz"
+    }
+    ],
+ 
+    "result": 
+    {
+        "item": "uniqueitems:star_quartz",
+        "count": 1
+    }
+}

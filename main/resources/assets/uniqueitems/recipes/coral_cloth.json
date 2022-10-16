@@ -1,0 +1,20 @@
+{ 
+    "type": "minecraft:crafting_shapeless",
+ 
+    "ingredients": 
+    [
+ 
+    {
+      "item": "uniqueitems:coral_branch"
+    },  
+    {
+      "item": "uniqueitems:wool_cloth"
+    }
+    ],
+ 
+    "result": 
+    {
+        "item": "uniqueitems:coral_cloth",
+        "count": 1
+    }
+}

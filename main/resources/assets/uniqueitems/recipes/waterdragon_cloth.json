@@ -1,0 +1,23 @@
+{ 
+    "type": "minecraft:crafting_shapeless",
+ 
+    "ingredients": 
+    [
+ 
+    {
+      "item": "uniqueitems:dragon_scale"
+    },  
+    {
+      "item": "uniqueitems:wool_cloth"
+    },  
+    {
+      "item": "minecraft:water_bucket"
+    }
+    ],
+ 
+    "result": 
+    {
+        "item": "uniqueitems:waterdragon_cloth",
+        "count": 1
+    }
+}

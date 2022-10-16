@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "TTT",
+	"T T",
+	"T T"
+    ],
+    
+    "key":{"T":{"item": "uniqueitems:waterdragon_cloth"}},
+    
+    "result":
+    {
+        "item": "uniqueitems:waterdragon_leggings",
+        "count": 1
+    }
+}

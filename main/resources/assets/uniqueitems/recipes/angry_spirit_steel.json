@@ -1,0 +1,20 @@
+{ 
+    "type": "minecraft:crafting_shapeless",
+ 
+    "ingredients": 
+    [
+ 
+    {
+      "item": "uniqueitems:angry_spirit_bottle"
+    },  
+    {
+      "item": "minecraft:iron_ingot"
+    }
+    ],
+ 
+    "result": 
+    {
+        "item": "uniqueitems:angry_spirit_iron",
+        "count": 1
+    }
+}

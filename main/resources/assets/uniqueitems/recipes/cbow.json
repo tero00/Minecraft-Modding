@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+	" HS",
+        "H S",
+	" HS"
+    ],
+    
+    "key":{"H":{"item": "uniqueitems:coral_branch"},"S":{"item": "minecraft:string"}},
+    
+    "result":
+    {
+        "item": "uniqueitems:coral_bow",
+        "count": 1
+    }
+}

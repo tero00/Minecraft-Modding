@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+	"T T",
+	"T T"
+    ],
+    
+    "key":{"T":{"item": "uniqueitems:spectral_cloth"}},
+    
+    "result":
+    {
+        "item": "uniqueitems:spectral_boots",
+        "count": 1
+    }
+}

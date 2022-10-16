@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+	"SSS",
+        "O O",
+	"S S"
+    ],
+    
+    "key":{"S":{"item": "uniqueitems:soulless_cloth"},
+	   "O":{"item": "uniqueitems:obsidian_plate"}},
+    
+    "result":
+    {
+        "item": "uniqueitems:soulless_leggings",
+        "count": 1
+    }
+}

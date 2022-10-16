@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "TTT"
+    ],
+    
+    "key":{"T":{"item": "uniqueitems:waterdragon_cloth"}},
+    
+    "result":
+    {
+        "item": "uniqueitems:waterdragon_helmet",
+        "count": 1
+    }
+}

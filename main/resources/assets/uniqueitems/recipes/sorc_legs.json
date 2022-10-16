@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+	"CCC",
+        "Q Q",
+	"C C"
+    ],
+    
+    "key":{"C":{"item": "uniqueitems:sorcerer_cloth"},
+	   "Q":{"item": "uniqueitems:star_quartz"}},
+    
+    "result":
+    {
+        "item": "uniqueitems:sorcerer_leggings",
+        "count": 1
+    }
+}

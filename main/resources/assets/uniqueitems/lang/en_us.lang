@@ -1,0 +1,134 @@
+itemGroup.uniqueitemstab=Unique Items
+
+item.wool_cloth.name=Wool Cloth
+item.woodland_cloth.name=Leaf Silk
+item.coral_cloth.name=Coral Silk
+item.twilight_cloth.name=Cloth of Twilight
+item.soulless_cloth.name=Soulless Cloth
+item.spectral_cloth.name=Spectral Cloth
+item.sorcerer_cloth.name=Cloth of Sorcery
+item.waterdragon_cloth.name=Water Dragon Silk
+
+item.dragon_scale.name=Artificial Dragon Scale
+item.spirit_bottle.name=Spirit in a Bottle
+item.angry_spirit_bottle.name=Angry Spirit in a Bottle
+item.fairy_iron.name=Pixie Steel
+item.enchanted_leaf.name=Enchanted Oak Leaf
+item.leafdragon_hide.name=Leaf Dragon Hide
+item.firedragon_plate.name=Fire Dragon Battle Plating
+item.hard_redstone.name=Redstone Brick
+item.polished_lapis.name=Lapis Lazuli Brick
+item.bark.name=Oak Bark
+item.obsidian_plate.name=Obsidian Plating
+item.coral_branch.name=Coral Branch
+item.prismatic_gem.name=Prismatic Gemstone
+item.spirit_iron.name=Spirit Steel
+item.angry_spirit_iron.name=Cronium Ingot
+item.star_gold.name=Celestium
+item.star_quartz.name=Moonglow Quartz
+item.ultramarine.name=Ultramarine Crystal
+item.ash_diamond.name=Ashen Diamond
+item.star_cronus_metal.name=Moonglow Quartz-coated Cronium 
+
+tile.soulless_sand.name=Soulless Sand
+item.bone_dagger.name=Bone Dagger
+item.spirit_dagger.name=Spirit Dagger
+item.queen_bee_stinger.name=Queen Bee's Stinger
+item.bedrock_sword.name=Ancient Stone sword
+item.cronus_dagger.name=Dirk of Cronus
+item.colossus_sword.name=Sword of Colossus
+item.cutlass_sword.name=Pirate King's Cutlass
+item.demon_blade.name=Demon Blade
+item.void_blade.name=Void Blade
+item.doku_no_ken.name=Doku No Ken
+item.ray_katana.name=Ray Katana
+item.etherite_dagger.name=Etherite Dagger
+item.fairy_sword.name=Pixie-enchanted Sword
+item.kendo_stick.name=Kendo Stick
+item.skysplitter_sword.name=Skysplitter Sword
+item.acclaim_sword.name=Sword of Acclaim
+item.splendor_sword.name=Sword of Splendor
+item.majesty_sword.name=Sword of Majesty
+item.kusanagi.name=Kusanagi
+item.masamune.name=Masamune
+item.muramasa.name=Muramasa
+item.sadamune.name=Sadamune
+
+item.coral_bow.name=Coral Bow
+item.leaf_bow.name=Leaf Bow
+
+item.ritual_skull_helmet.name=Skull of Corrupted Souls
+item.ritual_robe.name=Ritual Robe
+
+item.crystal_skull_helmet.name=Cracked Crystal Skull
+item.jungle_robe.name=Robe of Tlatoani
+
+item.spectre_skull_helmet.name=Memento Mori
+item.spectre_robe.name=Toga Picta
+item.spectre_staff.name=Edictum Praetoris
+
+item.juggernaut_helmet.name=Helm of the Juggernaut
+item.beehive_helmet.name=Hivemaster Helm
+
+item.soulless_mask.name=Soulless Mask
+item.soulless_robe.name=Soulless Robe
+item.soulless_leggings.name=Soulless Leggings
+item.soulless_boots.name=Soulless Boots
+
+item.woodland_mask.name=Woodland Mask
+item.woodland_robe.name=Woodland Robe
+item.woodland_leggings.name=Woodland Kilt
+item.woodland_boots.name=Woodland Boots
+
+item.twilight_helmet.name=Twilight Cap
+item.twilight_robe.name=Twilight Robe
+item.twilight_leggings.name=Twilight Leggings
+item.twilight_boots.name=Twilight Slippers
+
+item.acropolis_helmet.name=Acropolis Helm
+item.acropolis_chestplate.name=Acropolis Armor
+item.acropolis_leggings.name=Acropolis Pants
+item.acropolis_boots.name=Acropolis Waders
+
+item.fairy_helmet.name=Fairy Crown
+item.fairy_chestplate.name=Fairy Plate
+item.fairy_leggings.name=Fairy Pants
+item.fairy_boots.name=Fairy Boots
+
+item.candy_chestplate.name=Candy-coated Armor
+
+item.coral_helmet.name=Coral Silk Helmet
+item.coral_chestplate.name=Coral Silk Armor
+item.coral_leggings.name=Coral Silk Leggings
+item.coral_boots.name=Coral Silk Boots
+
+item.firedragon_helmet.name=Fire Dragon Battle Crest
+item.firedragon_chestplate.name=Fire Dragon Battle Armor
+item.firedragon_leggings.name=Fire Dragon Battle Pants
+item.firedragon_boots.name=Fire Dragon Battle Waders
+
+item.sorcerer_helmet.name=Ivory Diadem
+item.sorcerer_robe.name=Robe of the Grand Sorcerer
+item.sorcerer_leggings.name=Leggings of the Grand Sorcerer
+item.sorcerer_boots.name=Slippers of the Grand Sorcerer
+
+item.shendyt.name=Shendyt of Geb
+
+item.waterdragon_helmet.name=Water Dragon Silken Bandana
+item.waterdragon_robe.name=Water Dragon Silken Robe
+item.waterdragon_leggings.name=Water Dragon Silken Leggings
+item.waterdragon_boots.name=Water Dragon Silken Slippers
+
+item.leafdragon_helmet.name=Leaf Dragon Hide Cap
+item.leafdragon_chestplate.name=Leaf Dragon Hide Armor
+item.leafdragon_leggings.name=Leaf Dragon Hide Leggings
+item.leafdragon_boots.name=Leaf Dragon Hide Boots
+
+item.zaarvox_chestplate.name=Zaarvox's Heart
+
+item.resurrected_chestplate.name=Resurrected Warrior's Armor
+
+item.spectral_helmet.name=Spectral Cap
+item.spectral_chestplate.name=Spectral Armor
+item.spectral_leggings.name=Spectral Leggings
+item.spectral_boots.name=Spectral Boots

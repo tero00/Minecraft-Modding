@@ -1,0 +1,20 @@
+{ 
+    "type": "minecraft:crafting_shapeless",
+ 
+    "ingredients": 
+    [
+ 
+    {
+      "item": "uniqueitems:enchanted_leaf"
+    },  
+    {
+      "item": "uniqueitems:wool_cloth"
+    }
+    ],
+ 
+    "result": 
+    {
+        "item": "uniqueitems:woodland_cloth",
+        "count": 1
+    }
+}

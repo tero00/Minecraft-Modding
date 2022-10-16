@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+	"TTT"
+    ],
+    
+    "key":{"T":{"item": "uniqueitems:star_quartz"}},
+    
+    "result":
+    {
+        "item": "uniqueitems:sorcerer_helmet",
+        "count": 1
+    }
+}

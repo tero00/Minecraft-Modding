@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+	"TTT",
+	"T T",
+	"T T"
+    ],
+    
+    "key":{"T":{"item": "uniqueitems:firedragon_plate"}},
+    
+    "result":
+    {
+        "item": "uniqueitems:firedragon_leggings",
+        "count": 1
+    }
+}

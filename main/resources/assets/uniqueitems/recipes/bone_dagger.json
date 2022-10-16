@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+	" B",
+        "B "
+    ],
+    
+    "key":{"B":{"item": "minecraft:bone"}},
+    
+    "result":
+    {
+        "item": "uniqueitems:bone_dagger",
+        "count": 1
+    }
+}

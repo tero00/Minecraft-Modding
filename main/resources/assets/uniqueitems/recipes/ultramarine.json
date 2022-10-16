@@ -1,0 +1,20 @@
+{ 
+    "type": "minecraft:crafting_shapeless",
+ 
+    "ingredients": 
+    [
+ 
+    {
+      "item": "minecraft:dragon_breath"
+    },  
+    {
+      "item": "uniqueitems:polished_lapis"
+    }
+    ],
+ 
+    "result": 
+    {
+        "item": "uniqueitems:ultramarine",
+        "count": 1
+    }
+}

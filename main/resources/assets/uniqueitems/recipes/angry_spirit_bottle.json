@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+	"ABC",
+        "DEF",
+	"GHI"
+    ],
+    
+    "key":{"A":{"item": "minecraft:record_strad"},
+	   "B":{"item": "minecraft:record_wait"},
+	   "C":{"item": "minecraft:record_far"},
+	   "D":{"item": "minecraft:record_chirp"},
+	   "E":{"item": "uniqueitems:spirit_bottle"},
+	   "F":{"item": "minecraft:record_mall"},
+	   "G":{"item": "minecraft:record_stal"},
+	   "H":{"item": "minecraft:jukebox"},
+	   "I":{"item": "minecraft:record_blocks"}},
+    
+    "result":
+    {
+        "item": "uniqueitems:angry_spirit_bottle",
+        "count": 1
+    }
+}

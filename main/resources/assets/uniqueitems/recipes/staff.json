@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+	"  B",
+        " H ",
+	"H  "
+    ],
+    
+    "key":{"H":{"item": "uniqueitems:hard_redstone"},"B":{"item": "uniqueitems:spirit_iron"}},
+    
+    "result":
+    {
+        "item": "uniqueitems:spectre_staff",
+        "count": 1
+    }
+}

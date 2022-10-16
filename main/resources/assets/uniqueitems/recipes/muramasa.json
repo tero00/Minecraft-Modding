@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+	"  B",
+        " B ",
+	"B  "
+    ],
+    
+    "key":{"B":{"item": "uniqueitems:polished_lapis"}},
+    
+    "result":
+    {
+        "item": "uniqueitems:muramasa",
+        "count": 1
+    }
+}

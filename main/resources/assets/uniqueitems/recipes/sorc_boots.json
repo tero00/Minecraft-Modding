@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "C C",
+	"C C"
+    ],
+    
+    "key":{"C":{"item": "uniqueitems:sorcerer_cloth"}},
+    
+    "result":
+    {
+        "item": "uniqueitems:sorcerer_boots",
+        "count": 1
+    }
+}

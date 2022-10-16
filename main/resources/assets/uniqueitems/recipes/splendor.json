@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+	"U",
+        "U",
+	"G"
+    ],
+    
+    "key":{"U":{"item": "minecraft:iron_ingot"},"G":{"item": "uniqueitems:star_gold"}},
+    
+    "result":
+    {
+        "item": "uniqueitems:splendor_sword",
+        "count": 1
+    }
+}

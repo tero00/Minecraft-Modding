@@ -1,0 +1,23 @@
+{ 
+    "type": "minecraft:crafting_shapeless",
+ 
+    "ingredients": 
+    [
+ 
+    {
+      "item": "minecraft:fire_charge"
+    },  
+    {
+      "item": "uniqueitems:wool_cloth"
+    },  
+    {
+      "item": "minecraft:redstone"
+    }
+    ],
+ 
+    "result": 
+    {
+        "item": "uniqueitems:sorcerer_cloth",
+        "count": 1
+    }
+}

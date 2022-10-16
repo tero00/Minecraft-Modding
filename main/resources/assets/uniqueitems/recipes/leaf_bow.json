@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+	" HS",
+        "L S",
+	" HS"
+    ],
+    
+    "key":{"H":{"item": "minecraft:planks", "data": 3},
+	   "S":{"item": "minecraft:vine"},
+	   "L":{"item": "minecraft:leather"}},
+    
+    "result":
+    {
+        "item": "uniqueitems:leaf_bow",
+        "count": 1
+    }
+}

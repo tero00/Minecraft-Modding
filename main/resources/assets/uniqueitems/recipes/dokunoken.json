@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+	"  B",
+        " B ",
+	"H  "
+    ],
+    
+    "key":{"H":{"item": "uniqueitems:polished_lapis"},"B":{"item": "minecraft:emerald"}},
+    
+    "result":
+    {
+        "item": "uniqueitems:doku_no_ken",
+        "count": 1
+    }
+}

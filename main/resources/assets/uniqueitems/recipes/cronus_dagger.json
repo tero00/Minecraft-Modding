@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        " R",
+	"A "
+    ],
+    
+    "key":{"A":{"item": "uniqueitems:ash_diamond"},"R":{"item": "uniqueitems:angry_spirit_iron"}},
+    
+    "result":
+    {
+        "item": "uniqueitems:cronus_dagger",
+        "count": 1
+    }
+}

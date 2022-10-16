@@ -1,0 +1,20 @@
+{ 
+    "type": "minecraft:crafting_shapeless",
+ 
+    "ingredients": 
+    [
+ 
+    {
+      "item": "uniqueitems:wool_cloth"
+    },  
+    {
+      "item": "uniqueitems:spirit_bottle"
+    }
+    ],
+ 
+    "result": 
+    {
+        "item": "uniqueitems:spectral_cloth",
+        "count": 1
+    }
+}

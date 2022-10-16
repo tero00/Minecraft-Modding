@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+	"BBS",
+        "BB "
+    ],
+    
+    "key":{"S":{"item": "uniqueitems:woodland_cloth"},
+	   "B":{"item": "uniqueitems:bark"}},
+    
+    "result":
+    {
+        "item": "uniqueitems:woodland_mask",
+        "count": 1
+    }
+}

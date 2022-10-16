@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+	"U",
+        "U",
+	"G"
+    ],
+    
+    "key":{"U":{"item": "uniqueitems:polished_lapis"},"G":{"item": "uniqueitems:star_gold"}},
+    
+    "result":
+    {
+        "item": "uniqueitems:acclaim_sword",
+        "count": 1
+    }
+}

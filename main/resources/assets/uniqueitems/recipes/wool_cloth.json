@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "WWS"
+    ],
+    
+    "key":{"S":{"item": "minecraft:stick"},"W":{"item": "minecraft:wool", "data": 0}},
+    
+    "result":
+    {
+        "item": "uniqueitems:wool_cloth",
+        "count": 2
+    }
+}

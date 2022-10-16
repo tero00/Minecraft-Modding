@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+	"T T",
+	"T T"
+    ],
+    
+    "key":{"T":{"item": "uniqueitems:firedragon_plate"}},
+    
+    "result":
+    {
+        "item": "uniqueitems:firedragon_boots",
+        "count": 1
+    }
+}

@@ -1,0 +1,6 @@
+{
+   "parent": "block/cube_all",
+   "textures": {
+       "all": "uniqueitems:blocks/soulless_sand"
+   }
+}

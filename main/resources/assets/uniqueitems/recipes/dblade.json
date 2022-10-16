@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+	" BB",
+        "BBB",
+	"HB "
+    ],
+    
+    "key":{"H":{"item": "uniqueitems:hard_redstone"},"B":{"item": "uniqueitems:star_quartz"}},
+    
+    "result":
+    {
+        "item": "uniqueitems:demon_blade",
+        "count": 1
+    }
+}

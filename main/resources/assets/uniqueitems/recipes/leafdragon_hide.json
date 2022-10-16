@@ -1,0 +1,23 @@
+{ 
+    "type": "minecraft:crafting_shapeless",
+ 
+    "ingredients": 
+    [
+ 
+    {
+      "item": "uniqueitems:dragon_scale"
+    },  
+    {
+      "item": "uniqueitems:enchanted_leaf"
+    },  
+    {
+      "item": "uniqueitems:enchanted_leaf"
+    }
+    ],
+ 
+    "result": 
+    {
+        "item": "uniqueitems:leafdragon_hide",
+        "count": 1
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+	"TTT",
+        "T T"
+    ],
+    
+    "key":{"T":{"item": "uniqueitems:star_cronus_metal"}},
+    
+    "result":
+    {
+        "item": "uniqueitems:juggernaut_helmet",
+        "count": 1
+    }
+}

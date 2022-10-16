@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+	"  B",
+        " B ",
+	"H  "
+    ],
+    
+    "key":{"H":{"item": "uniqueitems:ash_diamond"},"B":{"item": "uniqueitems:ultramarine"}},
+    
+    "result":
+    {
+        "item": "uniqueitems:void_blade",
+        "count": 1
+    }
+}
